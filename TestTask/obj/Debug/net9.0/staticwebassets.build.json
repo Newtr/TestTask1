@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "vNHCHO5gFN1Cl3J5OxDsiB58DbXs0RIydJIpiYac8gQ=",
+  "Source": "TestTask",
+  "BasePath": "_content/TestTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestTask\\wwwroot",
+      "Source": "TestTask",
+      "ContentRoot": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\",
+      "BasePath": "_content/TestTask",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\7u5v2pe5yj-wqpx2v8n8p.gz",
+      "SourceId": "TestTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TestTask",
+      "RelativePath": "index#[.{fingerprint=wqpx2v8n8p}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "188x4ogre3",
+      "Integrity": "H7Tm5YVsrzqVy2B8R3HFok4lCKfCCwgjVXQO8JFXVUQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\dnij4rn7mk-i3g8pwz847.gz",
+      "SourceId": "TestTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TestTask",
+      "RelativePath": "Styles/main#[.{fingerprint=i3g8pwz847}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\Styles\\main.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hy20hm4gof",
+      "Integrity": "B+idpKX0UpeNrOGcvNF+pedTRJUqMyBSqpMVxGC+kBU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\Styles\\main.css"
+    },
+    {
+      "Identity": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\kf8a3r5u0p-lc2yl3q4hs.gz",
+      "SourceId": "TestTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TestTask",
+      "RelativePath": "js/app#[.{fingerprint=lc2yl3q4hs}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\js\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8gdykzxs55",
+      "Integrity": "mIjGKIjbFlRufStLSup+Ky29SysNwp9MwekRhBNeYrA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\index.html",
+      "SourceId": "TestTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\",
+      "BasePath": "_content/TestTask",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqpx2v8n8p",
+      "Integrity": "mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\js\\app.js",
+      "SourceId": "TestTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\",
+      "BasePath": "_content/TestTask",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lc2yl3q4hs",
+      "Integrity": "m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\Styles\\main.css",
+      "SourceId": "TestTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\",
+      "BasePath": "_content/TestTask",
+      "RelativePath": "Styles/main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i3g8pwz847",
+      "Integrity": "fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Styles\\main.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\7u5v2pe5yj-wqpx2v8n8p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001497005988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H7Tm5YVsrzqVy2B8R3HFok4lCKfCCwgjVXQO8JFXVUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\7u5v2pe5yj-wqpx2v8n8p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H7Tm5YVsrzqVy2B8R3HFok4lCKfCCwgjVXQO8JFXVUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H7Tm5YVsrzqVy2B8R3HFok4lCKfCCwgjVXQO8JFXVUQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.wqpx2v8n8p.html",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\7u5v2pe5yj-wqpx2v8n8p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001497005988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H7Tm5YVsrzqVy2B8R3HFok4lCKfCCwgjVXQO8JFXVUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqpx2v8n8p"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo="
+        }
+      ]
+    },
+    {
+      "Route": "index.wqpx2v8n8p.html",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqpx2v8n8p"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mF6Bj0dOueBCYI/3AuCy9nkqTxXKS093yNqC5RgNEDo="
+        }
+      ]
+    },
+    {
+      "Route": "index.wqpx2v8n8p.html.gz",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\7u5v2pe5yj-wqpx2v8n8p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H7Tm5YVsrzqVy2B8R3HFok4lCKfCCwgjVXQO8JFXVUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqpx2v8n8p"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H7Tm5YVsrzqVy2B8R3HFok4lCKfCCwgjVXQO8JFXVUQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\kf8a3r5u0p-lc2yl3q4hs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000616903146"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIjGKIjbFlRufStLSup+Ky29SysNwp9MwekRhBNeYrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\kf8a3r5u0p-lc2yl3q4hs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIjGKIjbFlRufStLSup+Ky29SysNwp9MwekRhBNeYrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIjGKIjbFlRufStLSup+Ky29SysNwp9MwekRhBNeYrA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.lc2yl3q4hs.js",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\kf8a3r5u0p-lc2yl3q4hs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000616903146"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIjGKIjbFlRufStLSup+Ky29SysNwp9MwekRhBNeYrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lc2yl3q4hs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.lc2yl3q4hs.js",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lc2yl3q4hs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m/77hJIHkLODL1dgGkAB0liIXHn2eNLU3lmsaHlVj+Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.lc2yl3q4hs.js.gz",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\kf8a3r5u0p-lc2yl3q4hs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIjGKIjbFlRufStLSup+Ky29SysNwp9MwekRhBNeYrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 11:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lc2yl3q4hs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIjGKIjbFlRufStLSup+Ky29SysNwp9MwekRhBNeYrA="
+        }
+      ]
+    },
+    {
+      "Route": "Styles/main.css",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\dnij4rn7mk-i3g8pwz847.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002570694087"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "388"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B+idpKX0UpeNrOGcvNF+pedTRJUqMyBSqpMVxGC+kBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ="
+        }
+      ]
+    },
+    {
+      "Route": "Styles/main.css",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\Styles\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ="
+        }
+      ]
+    },
+    {
+      "Route": "Styles/main.css.gz",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\dnij4rn7mk-i3g8pwz847.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B+idpKX0UpeNrOGcvNF+pedTRJUqMyBSqpMVxGC+kBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B+idpKX0UpeNrOGcvNF+pedTRJUqMyBSqpMVxGC+kBU="
+        }
+      ]
+    },
+    {
+      "Route": "Styles/main.i3g8pwz847.css",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\dnij4rn7mk-i3g8pwz847.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002570694087"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "388"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B+idpKX0UpeNrOGcvNF+pedTRJUqMyBSqpMVxGC+kBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i3g8pwz847"
+        },
+        {
+          "Name": "label",
+          "Value": "Styles/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ="
+        }
+      ]
+    },
+    {
+      "Route": "Styles/main.i3g8pwz847.css",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\wwwroot\\Styles\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i3g8pwz847"
+        },
+        {
+          "Name": "label",
+          "Value": "Styles/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fmxs4Qx82aBs+5kSgSk9iz47xRfmAD0SIzAf4zbQ3CQ="
+        }
+      ]
+    },
+    {
+      "Route": "Styles/main.i3g8pwz847.css.gz",
+      "AssetFile": "C:\\Work\\Projects\\TestTask\\TestTask\\TestTask\\obj\\Debug\\net9.0\\compressed\\dnij4rn7mk-i3g8pwz847.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B+idpKX0UpeNrOGcvNF+pedTRJUqMyBSqpMVxGC+kBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i3g8pwz847"
+        },
+        {
+          "Name": "label",
+          "Value": "Styles/main.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B+idpKX0UpeNrOGcvNF+pedTRJUqMyBSqpMVxGC+kBU="
+        }
+      ]
+    }
+  ]
+}

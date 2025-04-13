@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Управление пользователями</title>
+    <link rel="stylesheet" href="Styles/main.css">
+</head>
+<body>
+<div class="container">
+    <h1>Пользователи</h1>
+
+    <button onclick="loadUsers()">Загрузить данные</button>
+
+    <table id="userTable">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Имя</th>
+            <th>Фамилия</th>
+            <th>Email</th>
+            <th>Возраст</th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <section>
+        <h2>Добавить пользователя</h2>
+        <input type="text" id="addName" placeholder="Имя" required>
+        <input type="text" id="addSurname" placeholder="Фамилия" required>
+        <input type="text" id="addEmail" placeholder="Email" required>
+        <input type="number" id="addAge" placeholder="Возраст" required>
+        <button onclick="addUser()">Добавить</button>
+    </section>
+
+    <section>
+        <h2>Удалить пользователя</h2>
+        <input type="number" id="deleteId" placeholder="ID пользователя">
+        <button onclick="deleteUser()">Удалить</button>
+    </section>
+
+    <section>
+        <h2>Редактировать пользователя</h2>
+        <input type="number" id="editId" placeholder="ID">
+        <input type="text" id="editName" placeholder="Новое имя">
+        <input type="text" id="editSurname" placeholder="Новая фамилия">
+        <input type="text" id="editEmail" placeholder="Новый Email">
+        <input type="number" id="editAge" placeholder="Новый возраст">
+        <button onclick="editUser()">Редактировать</button>
+    </section>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
